@@ -75,7 +75,7 @@ export default function Checkout({ cart, setCart, setCounter, decreasing, idle }
               <input value={quantities[product.id] || 1} disabled className="w-12 text-center" />
               <button onClick={() => decrement(product.id)} className="bg-gray-800 text-white px-3 py-1">-</button>
               <span>Total: ${(quantities[product.id] * product.price).toFixed(2)}</span>
-              <button className='text-lg shadow-xl border border-gray-700 px-4 rounded-lg text-white mt-5 ml-96 bg-gray-800 w-auto h-10 boreder-8' onClick={()=>buyMessage()}> Buy </button>
+              <button className='text-lg shadow-xl border border-gray-700 px-4 rounded-lg text-white mt-5 lg:ml-96 bg-gray-800 w-auto h-10 boreder-8' onClick={()=>buyMessage()}> Buy </button>
             </div>
           </div>
         </div>

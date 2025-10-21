@@ -13,7 +13,7 @@ export default function Footer() {
   return (
     <div>
       <div className='mx-5 border-y border-gray-300 pt-10'>
-        <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mb-8'>
+        <div className='grid grid-cols-3 md:grid-cols-3 gap-4 sm:gap-8 mb-8'>
           {/* Shop */}
 <div>
   <h3 className='font-semibold mb-2'>Shop</h3>
@@ -44,7 +44,7 @@ export default function Footer() {
     <li><Link to="#">Terms & Conditions</Link></li>
   </ul>
 </div>
-
+</div>
 <div className='text-sm text-center text-gray-500 mb-5'>
   © {new Date().getFullYear()} ECommerce Inc. All rights reserved.
 </div>
@@ -59,7 +59,6 @@ export default function Footer() {
     <img src={flag} className='w-auto h-5' alt="flag" />
     <span>Ethiopia</span>
   </div>
-</div>
 </div>
 </div>
 

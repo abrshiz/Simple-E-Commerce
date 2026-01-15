@@ -1,4 +1,4 @@
-# Project Name: [Enter Your Project Title Here]
+# Project Name: [Simple- E-Commerce]
 
 This project is built using the **React + Vite** ecosystem, providing a high-performance development environment with Hot Module Replacement (HMR) and optimized build tooling.
 

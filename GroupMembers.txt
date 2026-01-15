@@ -1,9 +1,9 @@
 ## 👥 Group Members
 
-| Name                       |   Student ID 
-| :---                       | :--- 
-| **Abrham Wendesen**        |  DDU1600055 
-| **Makbel Hailu**           |  DDU1600488
-| **Yeabsira Eskinder**      |  DDU1600747
-| **Eyob Jira**              |  RMD940
-| **Wegen Geremew**          |  DDU1601938
+| Name                   |  StudentID 
+| :---                   | :--- 
+| Abrham Wendesen        |  DDU1600055 
+| Makbel Hailu           |  DDU1600488
+| Yeabsira Eskinder      |  DDU1600747
+| Eyob Jira              |  RMD940
+| Wegen Geremew          |  DDU1601938

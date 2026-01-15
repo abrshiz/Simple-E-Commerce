@@ -15,10 +15,11 @@ To get the project running locally:
 
 * **Framework:** React 18+
 * **Build Tool:** Vite
-* **Linting:** ESLint (Production-ready configuration)
+* **Linting:** ESLint (Production-ready configuration  )
 * **Refresh:** [@vitejs/plugin-react-swc](https://swc.rs/) (Fast Refresh via SWC)
 
 ---
+
 
 ## 👥 Group Members
 

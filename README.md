@@ -29,7 +29,7 @@ To get the project running locally:
 | **Makbel Hailu**           |  DDU1600488
 | **Yeabsira Eskinder**      |  DDU1600747
 | **Eyob Jira**              |  RMD940
-| **Wegen Geremew**          |  DDU16001938
+| **Wegen Geremew**          |  DDU1601938
 
 ---
 
